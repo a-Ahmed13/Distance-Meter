@@ -481,6 +481,7 @@ void InitiatePorts()
 	InitPortE();
 	InitPortF();
 	}
+	/*main function*/
 int main()
 {
 	double TwiceTime;		//useless can be removed
